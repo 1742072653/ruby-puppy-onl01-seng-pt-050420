@@ -1,5 +1,5 @@
 fido = dog.new("123")
-
+fido.name
 
 
 class Dog 
