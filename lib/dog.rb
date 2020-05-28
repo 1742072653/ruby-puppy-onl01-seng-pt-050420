@@ -26,7 +26,5 @@ class Dog
     end
   end
 end
-number = [1,2,3] dog.age
-number.each do |dog|
-  puts dog
+
 
