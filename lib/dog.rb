@@ -1,4 +1,5 @@
-
+fido = dog.new("123")
+dog.name
 
 
 class Dog 
