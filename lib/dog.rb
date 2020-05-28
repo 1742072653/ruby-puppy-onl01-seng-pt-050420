@@ -23,7 +23,7 @@ class Dog
   end
 
   def self.print_all
-    @@all.each do |name| @@all = [fido,non,new]
+    @@all.each do |object| @@all = [fido,non,new]
       puts 
     end
   end
