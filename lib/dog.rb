@@ -27,6 +27,6 @@ class Dog
   end
 end
 number = [1,2,3]
-number.each do |number|
-  puts number
+number.each do |dog|
+  puts dog.name
 
