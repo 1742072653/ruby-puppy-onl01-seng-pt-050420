@@ -1,4 +1,6 @@
-fido = dog.new("fido")
+fido = dog.new("123")
+
+
 
 class Dog 
   @@all = []
