@@ -26,6 +26,6 @@ class Dog
     end
   end
 end
-
+number = [1,2,3]
 
 
